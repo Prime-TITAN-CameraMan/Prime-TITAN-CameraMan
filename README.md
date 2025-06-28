@@ -41,3 +41,13 @@ Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the 
 - Contribute to Termux, Android-Linux, and mobile projects
 
 > “Limitations are just complex configurations waiting to be solved.”
+
+---
+
+### Contact & Community
+If you have any suggestion, issues or want help, contact & talk with me, support me then:
+
+**Community & Support**
+- **Discord Community Support**: Join our Discord community support server **[TCM's TermuxHub](https://discord.gg/F2V27TC2wt)**
+- **Telegram Community Support**: Head over to our Telegram community group **[TCM's 
+- 
