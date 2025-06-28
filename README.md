@@ -7,7 +7,7 @@ Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the 
 ### 🚀 What I'm Doing
 - Learning Linux through Termux, without needing a PC.
 - Running native XFCE4 desktops and Debian PRoot with full GUI support on Android.
-- Using hardware acceleration with Zink for Mali G76-MC4
+- Using hardware acceleration with Zink in Termux.
 - Building tools, tutorials, and environments for desktop-class Linux on phones.
 - Running GUI apps from chroot/PRoot on native Termux X11 via TCP/XDG/PulseAudio bridging.
 - Following productivity.
