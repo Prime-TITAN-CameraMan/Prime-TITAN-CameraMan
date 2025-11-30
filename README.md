@@ -8,14 +8,16 @@ Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the 
 - Learning Linux through Termux, without needing a PC.
 - Running native XFCE4 desktops and Debian PRoot with full GUI support on Android.
 - Using hardware acceleration with Zink in Termux.
-- Building tools, tutorials, and environments for desktop-class Linux on phones.
-- Running GUI apps from chroot/PRoot on native Termux X11 via TCP/XDG/PulseAudio bridging.
+- Building scripts, tutorials, and environments for desktop-class Linux on phones.
+- Running GUI apps from PRoot on native Termux X11 via TCP/XDG/PulseAudio bridging.
 - Following productivity.
 
 ---
 
 ### 📦 Featured Repository
 **[🧰 XFCE4-Termux-FullSetup](https://GitHub.com/Prime-TITAN-CameraMan/termux-desktops)**
+
+### The repository is archived, now it is read-only.
 
 > A full guide + scripts to install and run XFCE4 Desktop Environment natively in Termux with:
 - Termux X11 and PulseAudio support
@@ -27,9 +29,9 @@ Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the 
 
 ---
 ### ⚙️ Skills & Interests
-- Linux CLI / System internals / XFCE4
+- Linux CLI / XFCE4 / GUI
 - Shell scripting, Termux
-- GPU acceleration (VirGL, Zink)
+- GPU acceleration (Zink, Panfrost, VirGL)
 - GUI apps in Termux + PRoot
 
 ---
