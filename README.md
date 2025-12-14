@@ -15,7 +15,7 @@ Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the 
 ---
 
 ### 📦 Featured Repository
-**[🧰 XFCE4-Termux-FullSetup](https://GitHub.com/Prime-TITAN-CameraMan/Termux-Desktop)**
+**[🧰 Full Termux Desktop](https://GitHub.com/Prime-TITAN-CameraMan/Termux-Desktop)**
 
 > A full guide + scripts to install and run XFCE4 Desktop Environment natively in Termux with:
 - Termux X11 and PulseAudio support
