@@ -15,13 +15,11 @@ Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the 
 ---
 
 ### 📦 Featured Repository
-**[🧰 XFCE4-Termux-FullSetup](https://GitHub.com/Prime-TITAN-CameraMan/termux-desktops)**
-
-### The repository is archived, now it is read-only.
+**[🧰 XFCE4-Termux-FullSetup](https://GitHub.com/Prime-TITAN-CameraMan/Termux-Desktop)**
 
 > A full guide + scripts to install and run XFCE4 Desktop Environment natively in Termux with:
 - Termux X11 and PulseAudio support
-- Mali GPU compatibility (Zink & VirGL)
+- Mali & Adreno GPU compatibility (Zink & VirGL), HWA supported
 - Cross-environment GUI apps (Debian PRoot → Native XFCE)
 - Storage optimization, troubleshooting, and performance tuning
   
