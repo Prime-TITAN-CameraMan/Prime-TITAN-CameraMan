@@ -47,9 +47,9 @@ Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the 
 If you have any suggestion, issues or want help, contact & talk with me, support me then:
 
 **Community & Support**
-- **Discord Community Support**: Join our Discord community support server **[TCM's TermuxHub](https://discord.gg/F2V27TC2wt)**
-- **Telegram Community Support**: Head over to our Telegram community group **[TCM's Community](https://t.me/TCM_Linux_Community)**
-- **YouTube Channel**: Subscribe my channel on YouTube **[Atish Gaming YT](https://YouTube.com/@Atish_Gaming_YT)**
+- **Discord Community Support**: Join our Discord community support server **[TCM TechHub](https://discord.gg/xCMJwG5gGK)**
+- **Telegram Community Support**: Head over to our Telegram community group **[TCM TechHub](https://t.me/TCM_TechHub)**
+- **YouTube Channel**: Subscribe my channel on YouTube **[TCM Tech](https://YouTube.com/@TCM-Tech)**
 
 **Contact Me**
 - **Email:** mail to me **AtishGaming.Business@gmail.com**  
